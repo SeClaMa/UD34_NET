@@ -1,0 +1,39 @@
+.azul_oscuro{
+    background-color: rgb(70, 145, 207);
+    color: white!important;
+    padding-top: 0;
+    padding-bottom: 0;
+    
+  }
+  button {
+    border: none;
+    background-color: rgb(255, 255, 255);
+  }
+  .barra_superior{
+    padding: 4px;
+  }
+  .nav-item{
+    border-right: solid 1px rgb(54, 54, 54);
+    border-left: solid 1px rgb(54, 54, 54);
+    display: table;
+  }
+  
+  .nav-item .active{
+  background-color: white;
+  color: black  !important;
+  }
+  .nav-item :hover{
+    background-color: white;
+    color: black  !important;
+    }
+    .nav-link {
+      color: rgb(255, 255, 255) !important;
+      height: 50px;
+      align-items: center;
+      display: table-cell;
+      vertical-align: middle;
+      }
+      .especial{
+        background-color: rgb(35, 84, 158);
+      }
+      
